@@ -12,7 +12,7 @@
 ### 📅 Currently: ###
 
 - 🛠 Dabbling in: Python, AWS, Docker, Kubernetes
-- 🔗 Meetup Groups: DevCOP & SRE 
+- 🔗 Meetup Groups: Developer Community of Practice (DevCOP) Meetup & SRE Melbourne Meetup
 - 📖 Reading: Site Reliability Engineering - How Google Runs Production Systems
 
 
