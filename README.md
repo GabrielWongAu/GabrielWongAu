@@ -2,8 +2,7 @@
 
 ### 🌟 Fast Facts: ###
 
-- 🔍 Looking for internship opportunities in Infrastructure Programming/DevOps/SRE
-- 🎓 Diploma of IT @ Cloud & Cybersecurity Coder Academy Bootcamp (March 2021)
+- 🎓 Diploma of IT @ Coder Academy, Cloud & Cybersecurity Bootcamp (March 2021)
 - 📈 Transitioning from Wealth Management to Technology
 - 🧗‍Bouldering enthusiast 
 
