@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Gabe</h1>
+<h3 align="left">A passionate Cloud & Cybersecurity Student Developer from Melbourne, Australia</h3>
 
-<!--
-**GabrielWongAu/GabrielWongAu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Fast Facts: ###
 
-Here are some ideas to get you started:
+- 🔍 Looking for internship opportunities in Infrastructure Programming/DevOps/SRE
+- 🎓 Diploma of IT @ Cloud & Cybersecurity Coder Academy Bootcamp (March 2021)
+- 📈 Transitioning from Wealth Management to Technology
+- 🧗‍Bouldering enthusiast 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📅 Currently: ###
+
+- 🛠 Dabbling in: Python, AWS, Docker, Kubernetes
+- 🔗 Meetup Groups: DevCOP & SRE 
+- 📖 Reading: Site Reliability Engineering - How Google Runs Production Systems
+
+
+### 🌐 Find Me Online: ###
+
+- 🐤 Twitter Handle: @gabrielwongau
+- 👥 LinkedIn: https://www.linkedin.com/in/gabrielwongau/
+- 📁 Portfolio Website: https://www.gabewong.dev/
