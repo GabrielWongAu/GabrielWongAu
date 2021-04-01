@@ -2,8 +2,8 @@
 
 ### 🌟 Fast Facts: ###
 
+- ☁️ Cloud Engineer Intern
 - 🎓 Diploma of IT @ Coder Academy, Cloud & Cybersecurity Bootcamp (March 2021)
-- 📈 Transitioning from Wealth Management to Technology
 - 🧗‍Bouldering enthusiast 
 
 
